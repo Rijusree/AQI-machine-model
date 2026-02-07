@@ -2,7 +2,8 @@
 <h2>Project Overview</h2>
 <p>This project basically focuses on <b>Exploratory Data Analysis (EDA) and Data Preparation</b> for air quality of India</p>
 <p>My work in this project is inspired from: 
-<b>\“Prediction of Air Quality Using Machine Learning”</b>
-\Dr.Anupam Jamatia , NIT Agartala</p>
+<b><br>“Prediction of Air Quality Using Machine Learning”</b>
+<br>Dr.Anupam Jamatia , NIT Agartala</p>
+
 
 
