@@ -8,7 +8,7 @@
 <h2>Data Sources</h2>
 <p>
   <li>Raw air quality data obtained from kaggal in xml</li>
-  <li>Raw air quality data obtained from kaggal in xml</li>
+  <li>Convert XML file-->CSV file</li>
   <li>Pollutants and indicators include (depending on dataset availability):
 
       PM2.5, PM10
@@ -17,6 +17,21 @@
 
       Time-stamped observations</li>
   </p>
+  AQI-machine-model/
+│
+├── RAW Datasets/
+│   ├── data_aqi_cpcb.xml
+│   ├── aqi_data.csv
+│   └── XML_to_CSV.py
+│
+├── Data Analysis & Visuals/
+│   ├── analysis.ipynb
+│   ├── Output.csv
+│   └── summary_statistics.csv
+│
+├── README.md
+
+
 
 
 
