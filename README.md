@@ -17,7 +17,21 @@
 
       Time-stamped observations</li>
   </p>
-<h2>Repository Structure</h2>
+<h2>Repository Structure</h2><br>
+AQI-machine-model/<br>
+│<br>
+├── RAW Datasets/<br>
+│   ├── data_aqi_cpcb.xml<br>
+│   ├── aqi_data.csv<br>
+│   └── XML_to_CSV.py<br>
+│<br>
+├── Data Analysis & Visuals/<br>
+│   ├── analysis.ipynb<br>
+│   ├── Output.csv<br>
+│   └── summary_statistics.csv<br>
+│<br>
+├── README.md
+
 
 
 
