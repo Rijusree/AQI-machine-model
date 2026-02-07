@@ -15,7 +15,7 @@
 
       AQI
 
-      Time-stamped observations</li>
+      Time-stamped observations
   </p>
 <h2>Repository Structure</h2><br>
 AQI-machine-model/<br>
@@ -31,6 +31,7 @@ AQI-machine-model/<br>
 │   └── summary_statistics.csv<br>
 │<br>
 ├── README.md
+
 
 
 
