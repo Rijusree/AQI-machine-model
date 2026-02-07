@@ -7,17 +7,17 @@
 <p>The objective of this repository is not to claim a final prediction model, but to build a <b>clean, well-understood dataset and exploratory insights</b> that can support future machine learning models.</p>
 <h2>Data Sources</h2>
 <p>
-  <ul>
-    <li>Raw air quality data obtained from CPCB-style XML datasets</li>
+  <li>Raw air quality data obtained from kaggal in xml</li>
+  <li>Raw air quality data obtained from kaggal in xml</li>
+  <li>Pollutants and indicators include (depending on dataset availability):
 
-    <li>Pollutants and indicators include (depending on dataset availability):</li>
-    <ul>
-      <li>PM2.5, PM10</li>
-    </ul>
-  </ul>
-AQI
+      PM2.5, PM10
 
-Time-stamped observations</p>
+      AQI
+
+      Time-stamped observations</li>
+  </p>
+
 
 
 
