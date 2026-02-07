@@ -6,15 +6,19 @@
 <br><br>Dr.Anupam Jamatia , NIT Agartala</p>
 <p>The objective of this repository is not to claim a final prediction model, but to build a <b>clean, well-understood dataset and exploratory insights</b> that can support future machine learning models.</p>
 <h2>Data Sources</h2>
-<p><li>Raw air quality data obtained from CPCB-style XML datasets
+<p>
+  <ul>
+    <li>Raw air quality data obtained from CPCB-style XML datasets</li>
 
-Pollutants and indicators include (depending on dataset availability):
-
-PM2.5, PM10
-
+    <li>Pollutants and indicators include (depending on dataset availability):</li>
+    <ul>
+      <li>PM2.5, PM10</li>
+    </ul>
+  </ul?
 AQI
 
-Time-stamped observations</li></p>
+Time-stamped observations</p>
+
 
 
 
